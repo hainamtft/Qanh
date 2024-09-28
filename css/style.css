@@ -1,0 +1,15 @@
+body{
+    background-image: url(../img/web.jpg);
+    background-repeat: no-repeat; /* Không lặp lại ảnh */
+      background-size: cover; /* Ảnh bao phủ toàn bộ trang */
+      display: flex;
+      justify-content: center; /* Căn giữa theo chiều ngang */
+      align-items: center; /* Căn giữa theo chiều dọc */
+}
+.imgxam{
+    height: 300px;
+    border-radius: 29px;
+}
+.cangiua{
+    justify-content: center;
+}
